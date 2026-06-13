@@ -1,0 +1,95 @@
+body{
+    font-family: Arial;
+    margin: 0;
+}
+
+.navbar{
+    padding: 15px;
+    border-bottom: 1px solid gray;
+}
+
+.logo{
+    display: inline-block;
+    color: purple;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.search{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.search input{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid rgb(9, 9, 9);
+    border-radius: 20px;
+}
+
+.menu{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.menu a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+}
+
+.menubar{
+    background-color: lightgray;
+    padding: 15px;
+}
+
+.menubar a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+.course{
+    margin-left: 20px;
+}
+
+.topic-box{
+    width: 500px;
+    padding: 10px;
+}
+
+.card{
+    width: 200px;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.card img{
+    width: 100%;
+}
+
+input{
+    margin-left: 20px;
+    padding: 10px;
+    width: 300px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
